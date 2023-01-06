@@ -80,3 +80,36 @@
     color: #16D887;
     margin-right: 5px;
 }
+
+
+/* Plan Area CSS */
+.plan-area{
+    padding-bottom: 130px;
+}
+.section-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+.plan-container{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: 50px;
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.plan-description{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
