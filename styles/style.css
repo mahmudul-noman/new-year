@@ -39,3 +39,44 @@
     margin-top: 25px;
     margin-bottom: 25px;
 }
+
+/* previous-year CSS */
+.previous-year{
+    display: flex;
+    margin: 0 200px;
+    align-items: center;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+.prev-text {
+    padding: 0px 137px;
+}
+.prev-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+.prev-description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.prev-list{
+    padding: 0;
+}
+.prev-list li{
+    list-style: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    padding-bottom: 8px;
+}
+.prev-list li i{
+    color: #16D887;
+    margin-right: 5px;
+}
