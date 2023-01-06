@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.btn-primary {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #005FAC;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 25px;
+}
+
+/* Banner Area CSS */
+.banner{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-text {
+    text-align: end;
+    width: 490px;
+    float: right;
+    margin-right: 150px;
+    margin-top: 240px;
+}
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    color: #fff;
+}
+.banner-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #ffffff;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
