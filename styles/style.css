@@ -82,11 +82,15 @@ main{
     margin: 0 auto;
 }
 /* previous-year CSS */
-.previous-year{
+.previous-year {
     display: flex;
     align-items: center;
     margin-top: 130px;
     margin-bottom: 130px;
+    justify-content: space-between;
+}
+.prev-text {
+    width: 450px;
 }
 .prev-title{
     font-weight: 700;
