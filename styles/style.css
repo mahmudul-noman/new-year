@@ -81,6 +81,8 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+
+
 /* previous-year CSS */
 .previous-year {
     display: flex;
@@ -121,7 +123,6 @@ main{
     color: #16D887;
     margin-right: 5px;
 }
-
 
 /* Plan Area CSS */
 .plan-area{
